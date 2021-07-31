@@ -1,0 +1,11 @@
+**Negito**
+_Italico_
+# (sao os tamanhos das letras ordenadas pela quantidades de #, quanto mais ,menor sera a letra)
+ - ( para aparecer "bolinha" so coloca espaço + menos + espaço
+Ex:
+
+#Estrogonoff de frango
+
+###Ingredientes
+
+
